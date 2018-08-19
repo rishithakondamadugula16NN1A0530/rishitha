@@ -1,0 +1,52 @@
+{
+	"basic":{
+		"name":"rishitha",
+		"role":"student",
+		"mobile":"9685894217",
+		"email":"rishitha1999@gmail.com"
+	},
+	"career":{
+			"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree":"B-Tech(CSE)",
+			"institute":"vignan's ninrula",
+			"data":["2016-2020","86%"]
+		},
+		{
+			"degree":"intermediate(MPC)",
+			"institute":"srichaitanya",
+			"data":["2014-2016","95%"]
+		},
+		{
+			"degree":"CBSE",
+			"institute":"vignan",
+			"data":["2013-2014","86%"]
+		}
+	],
+	"skills":[
+		{
+			"title":"Programming languages",
+			"content":["python","c","java","R","C++"]
+
+		},
+		{
+		"title":"Data Bases",
+		"content":["Sql","Oracle","mySql"]
+
+	},
+	{
+	"title":"Web Technologies",
+	"content":["HTML","XML","javaScript","CSS"]
+
+},
+{
+"title":"Operating Systems",
+"content":["Windows","Linux","Unix"]
+
+}
+
+	]
+
+}
